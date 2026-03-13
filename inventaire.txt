@@ -1,0 +1,6 @@
+Entreprise: TechCorp, Adresse: 123 Rue Principale, Téléphone: 0123456789
+Bureau Code: B1, Description: Bureau Administratif, Nombre d'équipements: 1
+  Code: C789, Date d'acquisition: 2021-03-20, État: Opérationnel, Prix: 50.0 €, Couleur: Rouge
+Bureau Code: B2, Description: Salle de réunion, Nombre d'équipements: 2
+  Code: T456, Date d'acquisition: 2022-06-10, État: Non opérationnel, Prix: 200.0 € , Longueur: 1.5 m, Largeur: 0.8 m
+  Code: O123, Date d'acquisition: 2023-01-15, État: Opérationnel, Prix: 1500.0 € , Marque: Dell, Taille écran: 15.6 pouces

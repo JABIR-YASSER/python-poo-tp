@@ -1,0 +1,15 @@
+from datetime import datetime
+
+def demander_date():
+    while True:
+        date_saisie = input("Veuillez saisir une date au format AAAA-MM-JJ : ")
+        try:
+            # Validation de la date
+            date_valide = datetime.strptime(date_saisie, "%Y-%m-%d")
+            print(f"Date valide : {date_valide.date()}")
+            return date_valide
+        except ValueError:
+            print("Format de date invalide. Veuillez réessayer.")
+
+# Exemple d'utilisation
+date = demander_date()

@@ -1,0 +1,17 @@
+Entreprise: LocationCar
+Nombre d'agences: 2
+
+Agence Code: A1
+Adresse: 123 Rue Principale
+Nombre de véhicules: 3
+Liste des véhicules:
+  - Immatriculation: AB-123-CD, Date d'achat: 2023-01-15, État: disponible, Prix d'achat: 20000 dh, Marque: Toyota, Modèle: Corolla, Couleur: Rouge
+  - Immatriculation: XY-987-ZT, Date d'achat: 2022-06-10, État: en maintenance, Prix d'achat: 50000 dh, Capacité de charge: 10 tonnes, Dimensions: 6m x 2.5m x 3m
+  - Immatriculation: MO-456-FG, Date d'achat: 2021-03-20, État: loué, Prix d'achat: 10000 dh, Cylindrée: 600 cm³, Type: sport
+
+Agence Code: A2
+Adresse: 456 Rue Secondaire
+Nombre de véhicules: 0
+Liste des véhicules:
+  Aucun véhicule dans cette agence.
+

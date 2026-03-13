@@ -1,0 +1,8 @@
+Compagnie : Transport Global
+Adresse : 45 Avenue Centrale
+
+Garage [Nom: Garage Nord, Adresse: 1 Rue des Lilas, Nombre de véhicules: 1]
+  Voiture [Immatriculation: AB-123-CD, Date d'acquisition: 2022-01-15, État: opérationnel, Prix: 15000 €, Marque: Toyota, Modèle: Yaris, Couleur: Rouge]
+Garage [Nom: Garage Sud, Adresse: 5 Boulevard de l'Espoir, Nombre de véhicules: 2]
+  Camion [Immatriculation: XY-987-ZT, Date d'acquisition: 2021-06-10, État: opérationnel, Prix: 30000 €, Capacité: 10 tonnes, Type de cargaison: Livraisons]
+  Moto [Immatriculation: MT-456-UV, Date d'acquisition: 2020-03-20, État: non opérationnel, Prix: 8000 €, Cylindrée: 600 cm³, Type: Cross]
